@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import { mongooseAdapter } from '@payloadcms/db-mongodb'
 // import { payloadCloud } from '@payloadcms/plugin-cloud'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
